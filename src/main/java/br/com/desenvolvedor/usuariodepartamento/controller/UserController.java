@@ -24,6 +24,7 @@ public class UserController {
 	public List<User> findAll() {
 		return repository.findAll();
 	}
+	//teste do git
 
 	@GetMapping(value = "/{id}")
 	public User findAll(@PathVariable Long id) {
