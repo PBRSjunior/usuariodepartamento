@@ -1,6 +1,6 @@
 #VISÃO GERAL:
 
-Vamos construir um sistema (API REST) de usuários e departamentos, com os seguintes casos de uso:
+Construimos um sistema (API REST) de usuários e departamentos, com os seguintes casos de uso:
 
 -Buscar todos usuários;
 
